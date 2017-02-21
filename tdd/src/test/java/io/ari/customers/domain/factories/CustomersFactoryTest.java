@@ -107,4 +107,6 @@ public class CustomersFactoryTest {
     private static final String LAST_NAME = "Smith";
 
     private static final String MOBILE_PHONE = "798612123";
+
+    private static final String testing='tester'
 }
